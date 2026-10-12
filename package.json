@@ -1,0 +1,15 @@
+{
+  "name": "@jitesh-ss/tva",
+  "version": "1.0.0",
+  "description": "Terminal Velocity Amplifier - Your second brain that never forgets",
+  "main": "index.ts",
+  "type": "module",
+  "keywords": ["pi", "extension", "memory", "context"],
+  "author": "jitesh-ss",
+  "license": "MIT",
+  "repository": "https://github.com/jitesh-ss/TVA-main",
+  "scripts": {
+    "start": "node --experimental-strip-types scripts/run.ts",
+    "test": "node --experimental-strip-types scripts/run.ts"
+  }
+}
